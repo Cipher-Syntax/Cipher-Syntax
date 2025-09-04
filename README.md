@@ -6,7 +6,12 @@
 <!-- Intro -->
 <h2 align="center">🚀 Full Stack Web Developer | Problem Solver | Tech Enthusiast</h2>
 <p align="center">
-  <i>" eat(); sleep(); code(); repeat(); "</i>
+  <i>
+    <span style="color:#e74c3c;">eat();</span> 
+    <span style="color:#3498db;">sleep();</span> 
+    <span style="color:#2ecc71;">code();</span> 
+    <span style="color:#f1c40f;">repeat();</span>
+  </i>
 </p>
 
 ---
