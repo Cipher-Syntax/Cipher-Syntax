@@ -7,13 +7,12 @@
 <h2 align="center">🚀 Full Stack Web Developer | Problem Solver | Tech Enthusiast</h2>
 <p align="center">
   <i>
-    <span style="color:#ff4d4d;">eat();</span> 
-    <span style="color:#4da6ff;">sleep();</span> 
-    <span style="color:#33cc33;">code();</span> 
-    <span style="color:#ffd633;">repeat();</span>
+    <span style="color:#ff6b6b;">eat();</span> 
+    <span style="color:#5dade2;">sleep();</span> 
+    <span style="color:#58d68d;">code();</span> 
+    <span style="color:#f4d03f;">repeat();</span>
   </i>
 </p>
-
 
 ---
 
