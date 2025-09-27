@@ -56,10 +56,10 @@ Think of me as the dev who bridges **ideas → product** with clean code, smart 
 
 ### 🌌 Why Work With Me?
 
-✔️ **End-to-End Solutions** – from brainstorming to deployment
-✔️ **Clean, Scalable Code** – future-proof development
-✔️ **Design-Driven** – apps that are not just functional, but beautiful
-✔️ **Fast Learner** – I adapt to new tools & frameworks quickly
+✔️ **End-to-End Solutions** – from brainstorming to deployment <br/>
+✔️ **Clean, Scalable Code** – future-proof development <br/>
+✔️ **Design-Driven** – apps that are not just functional, but beautiful <br/>
+✔️ **Fast Learner** – I adapt to new tools & frameworks quickly <br/>
 ✔️ **Team Player & Leader** – I collaborate and push projects forward
 
 ---
