@@ -43,13 +43,14 @@ Think of me as the dev who bridges **ideas → product** with clean code, smart 
 
 ---
 
+
 ### 📊 My GitHub in Action
 
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Cipher-Syntax&show_icons=true&theme=radical&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&bg_color=0d1117" />
-  <br/><br/>
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Cipher-Syntax&theme=radical&hide_border=true&background=0d1117&stroke=9b59b6&ring=9b59b6&fire=9b59b6&currStreakLabel=ffffff" />
-</p>
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cipher-Syntax&show_icons=true&theme=radical&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&bg_color=0d1117" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cipher-Syntax&theme=radical&hide_border=true&background=0d1117&stroke=9b59b6&ring=9b59b6&fire=9b59b6&currStreakLabel=ffffff" height="200" />
+</div>
+
 
 ---
 
