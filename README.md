@@ -1,79 +1,105 @@
-<!-- Header Banner -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=200&section=header&text=Cipher%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Cipher&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
 </p>
 
-<!-- Intro -->
-
-<h2 align="center">🚀 Full Stack Web Developer | Problem Solver | Tech Enthusiast</h2>
 <p align="center">
-  <i>
-    <span style="color:#ff6b6b;">eat();</span> 
-    <span style="color:#5dade2;">sleep();</span> 
-    <span style="color:#58d68d;">code();</span> 
-    <span style="color:#f4d03f;">repeat();</span>
-  </i>
-</p>
-
----
-
-### 👋 Hey there!
-
-I’m **Cipher**, a passionate **Full Stack Web Developer** who thrives on building modern, scalable, and user-friendly web applications.
-Think of me as the dev who bridges **ideas → product** with clean code, smart design, and performance-driven solutions.
-
-* 💡 **I create:** sleek frontends, powerful backends, and intuitive user experiences.
-* 🔥 **I believe:** in building not just apps, but **impactful digital solutions**.
-* 🎯 **My goal:** to deliver work that doesn’t just meet expectations but sets new standards.
-
----
-
-### 🛠 Tech Stack
-
-<div align="left" style="background-color:#0d0d0d; padding:15px; border-radius:10px; color:#ffffff; max-width:100%;">
-
-**Frontend Mastery**<br> <img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-333333?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-
-**Backend Power**<br> <img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django&logoColor=092E20"/> <img src="https://img.shields.io/badge/PHP-333333?style=for-the-badge&logo=php&logoColor=777BB4"/> <img src="https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-
-**Other Tools**<br> <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/VS%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Postman-333333?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-
-</div>
-
----
-
-
-### 📊 My GitHub in Action
-
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cipher-Syntax&show_icons=true&theme=radical&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&bg_color=0d1117" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cipher-Syntax&theme=radical&hide_border=true&background=0d1117&stroke=9b59b6&ring=9b59b6&fire=9b59b6&currStreakLabel=ffffff" height="200" />
-</div>
-
-
----
-
-### 🌌 Why Work With Me?
-
-✔️ **End-to-End Solutions** – from brainstorming to deployment <br/>
-✔️ **Clean, Scalable Code** – future-proof development <br/>
-✔️ **Design-Driven** – apps that are not just functional, but beautiful <br/>
-✔️ **Fast Learner** – I adapt to new tools & frameworks quickly <br/>
-✔️ **Team Player & Leader** – I collaborate and push projects forward
-
----
-
-### 🌐 Let’s Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/justine-toong-347953363"><img src="https://img.shields.io/badge/LinkedIn-9b59b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:programmerjustine@gmail.com"><img src="https://img.shields.io/badge/Gmail-9b59b6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Cipher-Syntax"><img src="https://img.shields.io/badge/GitHub-9b59b6?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/justine-toong-347953363">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:programmerjustine@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Cipher-Syntax">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Cipher-Syntax&style=flat-square&color=8e44ad&label=Profile+Views"/>
 </p>
 
 ---
 
+## `> whoami`
+
+```ts
+const Cipher = {
+  role     : "Full Stack Web Developer",
+  focus    : ["Scalable Web Apps", "Clean Architecture", "Intuitive UX"],
+  mantra   : "Build it right. Ship it fast. Make it matter.",
+  currently: "Open to collaborations & opportunities 🚀",
+};
+```
+
+---
+
+## 🛠 Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cipher-Syntax&show_icons=true&theme=tokyonight&hide_border=true&title_color=9b59b6&icon_color=9b59b6&rank_icon=github" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher-Syntax&layout=compact&theme=tokyonight&hide_border=true&title_color=9b59b6" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cipher-Syntax&theme=tokyonight&hide_border=true&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6" height="165"/>
+</p>
+
+---
+
+## ✦ What I Bring
+
+| | |
+|---|---|
+| 🔁 **End-to-End** | Concept → Design → Code → Deploy |
+| 🧱 **Scalable Code** | Clean architecture, future-proof patterns |
+| 🎨 **Design-Driven** | Functional *and* beautiful by default |
+| ⚡ **Fast Learner** | Adapts quickly to new stacks and contexts |
+| 🤝 **Collaborative** | Thrives in teams, leads when needed |
+
+---
+
+## 🌐 Let's Build Something
+
+> I'm always open to interesting projects, collabs, or just a good tech chat.
+
+<p align="center">
+  <a href="https://linkedin.com/in/justine-toong-347953363">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:programmerjustine@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" />
 </p>
