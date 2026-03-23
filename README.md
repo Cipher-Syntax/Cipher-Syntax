@@ -26,7 +26,7 @@
 const Cipher = {
   role     : "Full Stack Web Developer",
   focus    : ["Scalable Web Apps", "Clean Architecture", "Intuitive UX"],
-  mantra   : "Build it right. Ship it fast. Make it matter.",
+  mantra   : "Eat(), Sleep(), Code(), Repeat().",
   currently: "Open to collaborations & opportunities 🚀",
 };
 ```
