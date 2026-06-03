@@ -63,13 +63,22 @@ const Cipher = {
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cipher-Syntax&show_icons=true&theme=tokyonight&hide_border=true&title_color=9b59b6&icon_color=9b59b6&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher-Syntax&layout=compact&theme=tokyonight&hide_border=true&title_color=9b59b6" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Cipher-Syntax&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher-Syntax&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cipher-Syntax&theme=tokyonight&hide_border=true&ring=9b59b6&fire=9b59b6&currStreakLabel=9b59b6" height="165"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Cipher-Syntax&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
