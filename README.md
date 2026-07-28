@@ -36,11 +36,11 @@ Whether it's designing a beautiful interface that users love to interact with, o
 I choose the right tools for the job to ensure everything I build is fast, reliable, and easy to maintain.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,vite&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,django,php,nodejs,mysql,postgres,redis&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,django,php,mysql,postgres&theme=light" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" />
 </p>
 
 ---
@@ -59,12 +59,12 @@ I choose the right tools for the job to ensure everything I build is fast, relia
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cipher-Syntax&show_icons=true&theme=light&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher-Syntax&layout=compact&theme=light&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cipher-Syntax&show_icons=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher-Syntax&layout=compact&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cipher-Syntax&theme=light&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Cipher-Syntax&hide_border=true" height="170" />
 </p>
 
 <br/>
