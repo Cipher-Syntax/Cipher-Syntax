@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=CIPHER%20SYNTAX&fontSize=64&fontColor=111827&fontAlignY=35&desc=I%20build%20digital%20experiences%20that%20make%20an%20impact.&descAlignY=55&descSize=16&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=CIPHER%20SYNTAX&fontSize=64&fontColor=111827&fontAlignY=35&desc=I%20build%20digital%20experiences%20that%20make%20an%20impact.&descAlignY=55&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -24,10 +24,10 @@ Whether it's designing a beautiful interface that users love to interact with, o
 
 ### How I Build (My Philosophy)
 
-- **🏛️ Architecture First:** Every great product is built on a solid foundation. I prioritize clean, decoupled systems before writing the first line of code.
-- **⚡ Performance as a Feature:** Fast applications are a baseline, not an afterthought. I optimize for speed, responsiveness, and minimal technical debt.
-- **🎨 Design Engineering:** A product isn't finished if it doesn't look incredible. I bridge the gap between heavy backend logic and premium, user-centric UI/UX.
-- **📖 Continuous Mastery:** Technology moves fast. I constantly refine my skills, test new paradigms, and document my best practices through daily engineering snippets.
+- **Architecture First:** Every great product is built on a solid foundation. I prioritize clean, decoupled systems before writing the first line of code.
+- **Performance as a Feature:** Fast applications are a baseline, not an afterthought. I optimize for speed, responsiveness, and minimal technical debt.
+- **Design Engineering:** A product isn't finished if it doesn't look incredible. I bridge the gap between heavy backend logic and premium, user-centric UI/UX.
+- **Continuous Mastery:** Technology moves fast. I constantly refine my skills, test new paradigms, and document my best practices through daily engineering snippets.
 
 ---
 
@@ -54,20 +54,7 @@ I choose the right tools for the job to ensure everything I build is fast, relia
 | **Built to Last** | I write clean, organized code so your application won't break when your business grows and scales. |
 | **True Collaboration** | I communicate clearly, adapt quickly, and thrive in teams that value fresh ideas and fast execution. |
 
----
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cipher-Syntax&show_icons=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cipher-Syntax&layout=compact&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cipher-Syntax&hide_border=true" height="170" />
-</p>
-
-<br/>
 
 <div align="center">
   <i>"I'm always looking for exciting opportunities, collaborations, or just a good chat about technology."</i>
